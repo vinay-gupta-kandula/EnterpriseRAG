@@ -1,0 +1,20 @@
+# --- Security & Secrets ---
+# NEVER commit your real environment variables!
+.env
+
+# --- Python & Virtual Environments ---
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.pytest_cache/
+
+# --- Project Specific ---
+# Ignore the local folder where user PDFs are saved during testing
+shared_data/
+
+# --- OS & Editor Files ---
+.DS_Store
+.vscode/
+.idea/
