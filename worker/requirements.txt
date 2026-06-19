@@ -1,0 +1,10 @@
+celery
+redis
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-community
+pypdf
+docx2txt
+sentence-transformers
+qdrant-client

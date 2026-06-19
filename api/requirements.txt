@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+bcrypt==3.2.2
+pyjwt
+python-dotenv
+python-multipart
+celery
+redis
+qdrant-client
+sentence-transformers
+prometheus-fastapi-instrumentator==6.1.0
